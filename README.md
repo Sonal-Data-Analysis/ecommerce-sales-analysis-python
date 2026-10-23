@@ -1,4 +1,4 @@
-# ecommerce-sales-analysis-python# Ecommerce Sales Analysis Using Python
+# Ecommerce Sales Analysis Using Python
 
 ## Project Overview
 This project focuses on analyzing ecommerce sales and profit data using Python. The goal is to understand sales performance, identify profitable product categories, and compare business performance across customer segments.
